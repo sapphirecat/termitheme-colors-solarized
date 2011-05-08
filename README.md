@@ -6,8 +6,9 @@ Solarized - Termitheme
 About Termitheme
 ----------------
 
-Termitheme provides painless import/export to multiple types of terminal.
-termitheme 1.2 supports PuTTY on Windows, and gnome-terminal.
+Termitheme provides painless import/export of ANSI color palettes to
+multiple types of terminal. termitheme 1.2 supports PuTTY on Windows, and
+gnome-terminal on its respective platforms.
 
 termitheme-colors-solarized provides the solarized palette as a pair of themes
 suitable for use with termitheme.
