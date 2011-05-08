@@ -3,6 +3,15 @@ Solarized - Termitheme
 
 ### [See official homepage for full content](http://ethanschoonover.com/solarized)
 
+About Termitheme
+----------------
+
+Termitheme provides painless import/export to multiple types of terminal.
+termitheme 1.2 supports PuTTY on Windows, and gnome-terminal.
+
+termitheme-colors-solarized provides the solarized palette as a pair of themes
+suitable for use with termitheme.
+
 Installation
 ------------
 
@@ -10,6 +19,14 @@ Installation
         $ cd termitheme-colors-solarized
         $ /path/to/termitheme/import.py solarized-dark.zip
         $ /path/to/termitheme/import.py solarized-light.zip
+
+Code
+----
+
+* [termitheme-colors-solarized](https://github.com/sapphirecat/termitheme-colors-solarized)
+* [solarized master](https://github.com/altercation/solarized)
+* [termitheme](http://www.sapphirepaw.org/termitheme) and its
+	[repository](https://github.com/sapphirecat/termitheme)
 
 The Values
 ----------
@@ -57,11 +74,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
-Files
------
-
-* solarized-dark.zip and solarized-light.zip: theme files
-* theme-dark.ini and theme-light.ini: human-readable theme definitions
-* credits.txt: credits file packed into the theme files
 
