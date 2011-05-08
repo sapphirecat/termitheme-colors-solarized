@@ -16,6 +16,7 @@ Installation
 ------------
 
 1. After installing termitheme, run the following commands:
+
         $ cd termitheme-colors-solarized
         $ /path/to/termitheme/import.py solarized-dark.zip
         $ /path/to/termitheme/import.py solarized-light.zip
