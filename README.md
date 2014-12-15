@@ -1,3 +1,9 @@
+Dead Project Warning
+====================
+
+Termitheme is dead.
+
+
 Solarized - Termitheme
 ======================
 
@@ -6,10 +12,8 @@ Solarized - Termitheme
 About Termitheme
 ----------------
 
-[Termitheme](http://www.sapphirepaw.org/termitheme) provides painless
-import/export of ANSI color palettes to multiple types of terminal.
-termitheme 1.2 supports PuTTY on Windows, and gnome-terminal on its
-respective platforms.
+Termitheme provided painless import/export of ANSI color palettes to multiple
+types of terminal.
 
 termitheme-colors-solarized provides the
 [solarized palette](http://ethanschoonover.com/solarized) as a pair of
@@ -29,8 +33,7 @@ Code
 
 * [termitheme-colors-solarized](https://github.com/sapphirecat/termitheme-colors-solarized)
 * [solarized master](https://github.com/altercation/solarized)
-* [termitheme](http://www.sapphirepaw.org/termitheme) and its
-	[repository](https://github.com/sapphirecat/termitheme)
+* [termitheme](https://github.com/sapphirecat/termitheme)
 
 The Values
 ----------
